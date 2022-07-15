@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mnnicoleta
+- 👀 I’m interested in learning 🌱
