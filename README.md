@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @mnnicoleta
+- 👋 Hi, I’m Nico
 - 👀 I’m interested in learning 🌱
