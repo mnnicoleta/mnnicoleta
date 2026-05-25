@@ -1,6 +1,6 @@
 ## Hi there, I'm Nicoleta 👋
 
-# Backend Engineer (Java/Spring) | API Design | Databases | REST APIs
+Backend Engineer (Java/Spring) | API Design | Databases | REST APIs
 
 ## About
 🔭 Currently working full-time.
